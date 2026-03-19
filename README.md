@@ -1,0 +1,39 @@
+# Radwimps – アンチクローン
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.00] 泣いた だって僕は好きだった
+[00:34.58] 涙腺を揺らす言葉 鼓膜をつくその呂律が
+[00:38.68] でもどれも違ったんだ わずか数億の語が
+[00:42.55] 僕を映せるわけなかった
+[00:44.34] そこにみせたい色はなかった
+[00:50.84] 
+[00:55.79] 誰かが作ったんだ この体 言葉
+[00:57.64] ホントの俺どこにいるのかな
+[00:59.61] 名前を読んで探してみた いや
+[01:01.59] あれももらいもんだったっけか? っけな
+[01:03.45] だけど 言葉 心と君と僕と その全てが重なると
+[01:07.32] 全ての言葉に僕だけの 意味ってやつが生まれるの
+[01:18.82] 
+[01:11.52] Never to become myself and I was just afraid of you
+[01:15.54] Follow me, just follow me, tiny stars went through my head
+[01:19.38] Never to become yourself and you were just afraid of me
+[01:23.14] Swallow me, just follow me, I always wanted to become you
+[01:51.64] 
+[01:35.68] 「Hello!」My friend's got a boyfriend and she's
+[01:39.74] 「Oh no!」She's going for another one lady
+[01:43.54] 「Yell out!」That's what I said to her but she goes now
+[01:47.59] 「Chill out!」What does that monogamy means to you, baby?
+[02:15.09] 
+[02:06.89] Say that I'm the one who you were searching for
+[02:10.65] Never say that you have spares of plenty of more
+[02:14.64] Be the only one and soon the time will come
+[02:18.51] This question of the clone'll be wasted
+[02:38.01] 
+[02:24.74] Never to become myself and I was just afraid of you
+[02:28.66] Follow me, just follow me, tiny stars went through my head
+[02:32.45] Never to become yourself and your were just afraid of me
+[02:36.35] Swallow me, just follow me, I always wanted to become you
+[02:47.50] Become you
+```
